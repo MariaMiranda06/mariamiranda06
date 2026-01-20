@@ -1,20 +1,5 @@
 
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com
-    ?font=Fira+Code
-    size=26
-    pause=1000
-    color=7C3AED
-    center=true
-    vCenter=true
-    width=600
-    lines=Oi%2C+eu+sou+a+Maria+Miranda+%F0%9F%92%9C;
-            Estudante+de+Programa%C3%A7%C3%A3o;
-            Bem-vindo+ao+meu+GitHub!"
-    alt="Typing SVG"
-  />
-</p>
+## Ola! Eu sou a Maria Miranda, bem vindo ao meu perfil 🪻
 
 <img src="https://img.shields.io/badge/Status-Estudando-purple">
 <div align="center">
