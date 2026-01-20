@@ -1,4 +1,6 @@
-#Ola! Eu sou a Maria Miranda 
-## 📊 
+##Ola! Eu sou a Maria Miranda 
+## 📊
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MariaMiranda06&show_icons=true&theme=dracula)
+
+<img src="https://raw.githubusercontent.com/MariaMiranda06/MariaMiranda06/output/snake.svg" alt="Snake animation" />
 
