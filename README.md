@@ -1,3 +1,21 @@
+
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com
+    ?font=Fira+Code
+    &size=26
+    &pause=1000
+    &color=7C3AED
+    &center=true
+    &vCenter=true
+    &width=600
+    &lines=Oi%2C+eu+sou+a+Maria+Miranda+%F0%9F%92%9C;
+            Estudante+de+Programa%C3%A7%C3%A3o;
+            Bem-vindo+ao+meu+GitHub!"
+    alt="Typing SVG"
+  />
+</p>
+
 <img src="https://img.shields.io/badge/Status-Estudando-purple">
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MariaMiranda06&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
